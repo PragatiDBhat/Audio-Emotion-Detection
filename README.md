@@ -1,4 +1,4 @@
-# Audio-Emotion-Detection
+# Decoding Emotions Through Speech Using LSTM
 
 ## Introduction
 
